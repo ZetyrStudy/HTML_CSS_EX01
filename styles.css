@@ -29,6 +29,7 @@ header img {
   height: 80px;
   margin: 10px 10px;
   float: left;
+  border-radius: 0.5rem;
 }
 
 header h1 {
